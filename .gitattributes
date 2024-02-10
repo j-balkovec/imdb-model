@@ -1,0 +1,5 @@
+*.tex linguist-detectable=false
+*.html linguist-detectable=false
+logs/nltk.log -text
+
+
